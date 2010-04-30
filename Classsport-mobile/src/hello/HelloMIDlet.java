@@ -7,6 +7,9 @@ package hello;
 
 import javax.microedition.midlet.*;
 import javax.microedition.lcdui.*;
+import javax.xml.rpc.JAXRPCException;
+import javax.xml.namespace.QName;
+import javax.microedition.xml.rpc.*;
 
 /**
  * @author Administrador

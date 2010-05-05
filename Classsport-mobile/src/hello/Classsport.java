@@ -8,7 +8,6 @@ package hello;
 import javax.microedition.lcdui.*;
 import javax.microedition.midlet.*;
 
-import dicis.afcu.AFCU;
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.io.InputStream;

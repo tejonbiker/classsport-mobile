@@ -10,6 +10,7 @@ import javax.microedition.lcdui.*;
 import javax.xml.rpc.JAXRPCException;
 import javax.xml.namespace.QName;
 import javax.microedition.xml.rpc.*;
+import javax.crypto.*;
 
 /**
  * @author Administrador

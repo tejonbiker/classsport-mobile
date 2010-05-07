@@ -5,6 +5,7 @@
 
 package hello;
 
+import dicis.afcu.AFCU;
 import javax.microedition.lcdui.*;
 import javax.microedition.midlet.*;
 

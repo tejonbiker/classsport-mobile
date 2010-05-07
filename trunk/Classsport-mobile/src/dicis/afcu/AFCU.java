@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package hello;
+package dicis.afcu;
 
 import java.io.DataOutputStream;
 import java.io.IOException;

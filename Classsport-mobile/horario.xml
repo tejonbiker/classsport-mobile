@@ -1,0 +1,23 @@
+<horario fileid="00101022010201021">
+    <version id="0.0">esta es una posible forma de como estructurar el horario</version>
+
+    <lic tipo="electronica">
+
+        <salon id="201">
+            <maestro>Ramos Ortega José Federico</maestro>
+            <horario dia="martes">10:15,12:30</horario>
+            <horario dia="jueves">10:15,12:30</horario>
+            <materia>Limpieza</materia>
+            <clave>10.01LA9</clave>
+
+            <maestro>Ana Laura Velazques Lopez</maestro>
+            <horario dia="lunes">08:00,10:00</horario>
+            <horario dia="martes">08:00,10:00</horario>
+            <horario dia="jueves">08:00,10:00</horario>
+            <materia>psicologia</materia>
+            <clave>10.32B.5</clave>
+        </salon>
+
+    </lic>
+
+</horario>

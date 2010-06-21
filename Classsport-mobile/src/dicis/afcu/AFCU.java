@@ -178,6 +178,11 @@ public class AFCU{
         WorkSpace.append("classsport/");
         return false;
     }
+
+    public static final String getWorkSpaceName()
+    {
+        return WorkSpace.toString();
+    }
    
     /**
      * This method create or search a folder (WorkSpace) in all file system phone. You can specify the name
@@ -293,4 +298,5 @@ public class AFCU{
 
         return null;
     }
+
 }

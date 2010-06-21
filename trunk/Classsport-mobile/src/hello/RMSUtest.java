@@ -1,6 +1,9 @@
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
+ *
+ * una simple prueba del paquete RMSU, que es para extender la capacidad RMS
+ * para ser usada mas simple.
  */
 
 package hello;

@@ -1,6 +1,8 @@
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
+ *
+ * uso de RMSU y AFCU por separado, cabe mencionar que FileSystem simplifica este proceso enormemente.
  */
 
 package hello;

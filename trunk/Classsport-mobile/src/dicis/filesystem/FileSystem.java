@@ -46,6 +46,7 @@ public class FileSystem {
             ws = AFCU.setUpWorkSpace();
 
             if(ws==null)
+                //una excepcion es necesaria aqui.
                 System.out.println("Cannot create WorkSpace");
             else
             {

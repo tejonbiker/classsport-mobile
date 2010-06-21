@@ -1,6 +1,13 @@
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
+ *
+ * prueba y ejemplo de la clase FileSystem, el cual simplifica el uso de RMSU y AFCU, basicamente
+ * busca donde pueda crear una sitio donde pueda crear una carpeta y si esta carpeta
+ * ha sido previamente creada simplemente accesa a ella por medio de RMS (RMSU)
+ *
+ * cualquier archivo que se quiera abrir o crear se hace donde la carpeta de FileSystem
+ * es ubicada.
  */
 
 package hello;

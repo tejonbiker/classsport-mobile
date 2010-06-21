@@ -1,6 +1,11 @@
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
+ *
+ * en este archivo se prueban las capacidades de FileSystem con NanoXML asi como
+ * la lectura de un archivo de prueba. Basicamente lee el archivo horario.xml
+ * donde FileSystem se lo permite y lo comienza a analizar.
+ *
  */
 
 package hello;

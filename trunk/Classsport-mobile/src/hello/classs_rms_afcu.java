@@ -21,7 +21,7 @@ import javax.microedition.io.file.FileConnection;
 /**
  * @author Tejon
  */
-public class Classsport extends MIDlet implements CommandListener{
+public class classs_rms_afcu extends MIDlet implements CommandListener{
 
     Form form = new Form("tejon");
     Display display;
@@ -67,7 +67,6 @@ public class Classsport extends MIDlet implements CommandListener{
         }
 
         try{
-        form.append(Image.createImage("/logo.png"));
 
         FileConnection fc = (FileConnection)Connector.open(ws + "readme.txt");
         //DataInputStream fileStream = fc.openDataInputStream();
